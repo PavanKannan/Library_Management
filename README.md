@@ -13,7 +13,6 @@ The **Library Management System** is a Python-based application designed to mana
 ## Technologies Used  
 - **Python**  
 - **MySQL** (Database)  
-- **KiCad** (For PCB-related optimizations, if applicable)  
 - **tabulate** (For formatted table display)  
 
 ## Setup Instructions  
